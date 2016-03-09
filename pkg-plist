@@ -1,0 +1,13 @@
+apacheds/LICENSE
+apacheds/NOTICE
+apacheds/bin/apacheds.bat
+apacheds/bin/apacheds.sh
+apacheds/bin/cpappend.bat
+apacheds/instances/default/conf/config.ldif
+apacheds/instances/default/conf/log4j.properties
+apacheds/lib/apacheds-service-2.0.0-M21.jar
+bin/apacheds.sh
+@dir apacheds/instances/default/cache
+@dir apacheds/instances/default/log
+@dir apacheds/instances/default/partitions
+@dir apacheds/instances/default/run
