@@ -27,6 +27,6 @@ SHEBANG_FILES=	bin/apacheds.sh
 do-install:
 	${MKDIR} ${STAGEDIR}${PREFIX}/${PORTNAME}
 	cd ${WRKSRC}; ${COPYTREE_SHARE} . ${STAGEDIR}${PREFIX}/${PORTNAME}
-	${INSTALL_SCRIPT} ${WRKSRC}//bin/apacheds.sh ${STAGEDIR}${PREFIX}/bin$
+	${INSTALL_SCRIPT} ${WRKSRC}/bin/apacheds.sh ${STAGEDIR}${PREFIX}/bin$
 
 .include <bsd.port.mk>

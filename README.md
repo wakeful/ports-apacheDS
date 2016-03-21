@@ -1,6 +1,6 @@
 # ApacheDS FreeBSD Port
 
-[Apache Directory](https://directory.apache.org/apacheds/)  - LDAP and Kerberos server written in Java.
+[Apache Directory](https://directory.apache.org/apacheds/) - LDAP and Kerberos server written in Java.
 
 ## Usage
 ```
