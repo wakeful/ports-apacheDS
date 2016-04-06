@@ -1,5 +1,5 @@
 # Created by: Adrian Jaskuła <aj@laatu.uk>
-# $FreeBSD:$
+# $FreeBSD$
 
 PORTNAME=	apacheds
 PORTVERSION=	2.0.0
