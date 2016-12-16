@@ -1,3 +1,5 @@
 ApacheDS is an extensible and embeddable directory server 
 entirely written in Java, which has been certified LDAPv3 
 compatible by the Open Group.
+
+WWW: https://directory.apache.org/apacheds/
