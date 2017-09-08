@@ -1,4 +1,4 @@
-# Created by: Adrian Jaskuła <aj@laatu.uk>
+# Created by: Adrian Jaskuła <aj@48k.io>
 # $FreeBSD$
 
 PORTNAME=	apacheds
@@ -7,7 +7,7 @@ CATEGORIES=	java databases
 MASTER_SITES=	http://mirror.ox.ac.uk/sites/rsync.apache.org/directory/apacheds/dist/2.0.0-M24/
 DISTNAME=	${PORTNAME}-${PORTVERSION}-M24
 
-MAINTAINER=	aj@laatu.uk
+MAINTAINER=	aj@48k.io
 COMMENT=	Apache Directory - LDAP and Kerberos server written in Java
 
 LICENSE=	APACHE20
