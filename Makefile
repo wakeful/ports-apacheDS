@@ -4,15 +4,15 @@
 PORTNAME=	apacheds
 PORTVERSION=	2.0.0
 CATEGORIES=	java databases
-MASTER_SITES=	http://mirror.ox.ac.uk/sites/rsync.apache.org/directory/apacheds/dist/2.0.0-M23/
-DISTNAME=	${PORTNAME}-${PORTVERSION}-M23
+MASTER_SITES=	http://mirror.ox.ac.uk/sites/rsync.apache.org/directory/apacheds/dist/2.0.0-M24/
+DISTNAME=	${PORTNAME}-${PORTVERSION}-M24
 
 MAINTAINER=	aj@laatu.uk
 COMMENT=	Apache Directory - LDAP and Kerberos server written in Java
 
 LICENSE=	APACHE20
 
-RUN_DEPENDS=	bash:${PORTSDIR}/shells/bash
+RUN_DEPENDS=	bash:shells/bash
 
 USE_JAVA=	yes
 JAVA_VERSION=	1.7+
