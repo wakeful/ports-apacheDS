@@ -10,5 +10,5 @@ apacheds/bin/apacheds.sh.orig
 apacheds/bin/cpappend.bat
 apacheds/instances/default/conf/config.ldif
 apacheds/instances/default/conf/log4j.properties
-apacheds/lib/apacheds-service-2.0.0-M24.jar
+apacheds/lib/apacheds-service-2.0.0.AM25.jar
 bin/apacheds.sh

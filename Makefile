@@ -4,8 +4,8 @@
 PORTNAME=	apacheds
 PORTVERSION=	2.0.0
 CATEGORIES=	java databases
-MASTER_SITES=	http://mirror.ox.ac.uk/sites/rsync.apache.org/directory/apacheds/dist/2.0.0-M24/
-DISTNAME=	${PORTNAME}-${PORTVERSION}-M24
+MASTER_SITES=	http://mirror.ox.ac.uk/sites/rsync.apache.org/directory/apacheds/dist/2.0.0.AM25/
+DISTNAME=	${PORTNAME}-${PORTVERSION}.AM25
 
 MAINTAINER=	aj@48k.io
 COMMENT=	Apache Directory - LDAP and Kerberos server written in Java
